@@ -1,0 +1,1 @@
+(()=>{const C=window.TripCo,D=C.DATA;function render(){const el=document.querySelector('#destinationsGrid');if(el)el.innerHTML=D.DESTINATIONS.map(C.renderDestinationCard).join('');C.bindDynamic()}document.addEventListener('DOMContentLoaded',render);document.addEventListener('tripco:lang',render)})();

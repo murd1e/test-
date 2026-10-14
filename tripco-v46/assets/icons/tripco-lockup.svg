@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 120">
+  <defs><linearGradient id="g" x1="10" y1="10" x2="105" y2="110" gradientUnits="userSpaceOnUse"><stop stop-color="#0B6B4F"/><stop offset=".6" stop-color="#0C7C86"/><stop offset="1" stop-color="#D66E52"/></linearGradient></defs>
+  <g transform="translate(4 4)"><rect width="112" height="112" rx="31" fill="#F7F1E8"/><path d="M23 81c14-26 29-40 48-42 10-1 18 2 26 8" fill="none" stroke="url(#g)" stroke-width="8" stroke-linecap="round"/><path d="M23 84c17-6 33-4 50 6" fill="none" stroke="#C9A86A" stroke-width="5" stroke-linecap="round"/><path d="M77 20c-13 0-23 10-23 23 0 17 23 37 23 37s23-20 23-37c0-13-10-23-23-23Zm0 33a10 10 0 1 1 0-20 10 10 0 0 1 0 20Z" fill="#0B6B4F"/></g>
+  <text x="140" y="68" font-family="Segoe UI,Arial,sans-serif" font-size="56" font-weight="800" fill="#0B2F2A">TripCo</text>
+  <text x="142" y="97" font-family="Tahoma,Arial,sans-serif" font-size="22" font-weight="700" fill="#0B6B4F">تريبكو</text>
+</svg>

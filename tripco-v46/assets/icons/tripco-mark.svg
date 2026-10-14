@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="TripCo">
+  <defs>
+    <linearGradient id="g" x1="18" y1="12" x2="112" y2="118" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B6B4F"/><stop offset=".55" stop-color="#0C7C86"/><stop offset="1" stop-color="#D66E52"/>
+    </linearGradient>
+  </defs>
+  <rect x="5" y="5" width="118" height="118" rx="34" fill="#F7F1E8"/>
+  <path d="M31 88c15-28 31-43 52-45 10-1 19 2 27 8" fill="none" stroke="url(#g)" stroke-width="9" stroke-linecap="round"/>
+  <path d="M30 90c18-6 36-4 53 7" fill="none" stroke="#C9A86A" stroke-width="6" stroke-linecap="round"/>
+  <path d="M87 26c-13 0-24 10-24 24 0 18 24 38 24 38s24-20 24-38c0-14-11-24-24-24Zm0 34a10 10 0 1 1 0-20 10 10 0 0 1 0 20Z" fill="#0B6B4F"/>
+  <path d="M31 39c12-8 21-9 29-3" fill="none" stroke="#D66E52" stroke-width="6" stroke-linecap="round"/>
+</svg>

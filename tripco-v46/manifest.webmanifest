@@ -1,0 +1,10 @@
+{
+  "name":"TripCo | تريبكو — Saudi Journey OS",
+  "short_name":"TripCo",
+  "description":"Advanced Saudi tourism journey platform prototype with hotels, flights, AR and 2034 event hub",
+  "start_url":"index.html",
+  "display":"standalone",
+  "background_color":"#f7f5f0",
+  "theme_color":"#071f1a",
+  "icons":[{"src":"assets/icons/tripco-v4-mark.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
